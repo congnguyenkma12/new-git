@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Hello KMa and kma is great
-=======
-Hello KMa
->>>>>>> 63476f9e40f2d381b4acd4be29d688cbfe9cd93f
